@@ -1,3 +1,3 @@
-Right now I'm working on [ANSLL](https://github.com/penguin-teal/ANSLL), a programming language and the compiler that enforces units of measurment.
+[![Penguin's GitHub stats](https://github-readme-stats.vercel.app/api?username=penguin-teal&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 Check out my [pages](https://penguin-teal.github.io).
